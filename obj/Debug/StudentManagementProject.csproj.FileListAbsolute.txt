@@ -1,0 +1,6 @@
+C:\Users\Jeremy\source\repos\StudentManagementProject\bin\Debug\StudentManagementProject.exe.config
+C:\Users\Jeremy\source\repos\StudentManagementProject\bin\Debug\StudentManagementProject.exe
+C:\Users\Jeremy\source\repos\StudentManagementProject\bin\Debug\StudentManagementProject.pdb
+C:\Users\Jeremy\source\repos\StudentManagementProject\obj\Debug\StudentManagementProject.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\StudentManagementProject\obj\Debug\StudentManagementProject.exe
+C:\Users\Jeremy\source\repos\StudentManagementProject\obj\Debug\StudentManagementProject.pdb
